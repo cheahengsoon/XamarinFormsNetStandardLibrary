@@ -1,0 +1,10 @@
+c:\users\cheah\documents\visual studio 2017\Projects\StandardDemo\DotNetStandard\bin\Debug\netstandard1.4\DotNetStandard.deps.json
+c:\users\cheah\documents\visual studio 2017\Projects\StandardDemo\DotNetStandard\bin\Debug\netstandard1.4\DotNetStandard.dll
+c:\users\cheah\documents\visual studio 2017\Projects\StandardDemo\DotNetStandard\obj\Debug\netstandard1.4\DotNetStandard.csprojResolveAssemblyReference.cache
+c:\users\cheah\documents\visual studio 2017\Projects\StandardDemo\DotNetStandard\obj\Debug\netstandard1.4\DotNetStandard.csproj.CoreCompileInputs.cache
+c:\users\cheah\documents\visual studio 2017\Projects\StandardDemo\DotNetStandard\obj\Debug\netstandard1.4\DotNetStandard.AssemblyInfo.cs
+c:\users\cheah\documents\visual studio 2017\Projects\StandardDemo\DotNetStandard\bin\Debug\netstandard1.4\DotNetStandard.pdb
+c:\users\cheah\documents\visual studio 2017\Projects\StandardDemo\DotNetStandard\obj\Debug\netstandard1.4\DotNetStandard.App.xaml.g.cs
+c:\users\cheah\documents\visual studio 2017\Projects\StandardDemo\DotNetStandard\obj\Debug\netstandard1.4\DotNetStandard.MainPage.xaml.g.cs
+c:\users\cheah\documents\visual studio 2017\Projects\StandardDemo\DotNetStandard\obj\Debug\netstandard1.4\DotNetStandard.dll
+c:\users\cheah\documents\visual studio 2017\Projects\StandardDemo\DotNetStandard\obj\Debug\netstandard1.4\DotNetStandard.pdb
